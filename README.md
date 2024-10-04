@@ -26,7 +26,7 @@ mongodb is used to store data persistently.
 4. **Access the API** :
   Once the server is running, the application will be accessible at:\
    Admin routes: http://localhost:3000/admin \
-   User routes: http://localhost:3000/user \
+   User routes: http://localhost:3000/user 
    
 ## Routes
 ### Admin Routes:
